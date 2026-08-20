@@ -1,1 +1,1 @@
-# sy-6-35-python
+# sy-6-python
